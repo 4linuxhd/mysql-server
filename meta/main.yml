@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: mysql_server
+  role_name: mysql-server
   author: 4Linux DevOps
   description: Instalacao e Configuracao do servidor MySQL
   company: 4Linux
